@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#clock{
+    height: 100vh;
+    text-align: center;
+    font-weight: bold;
+    font-size: 100px;
+    margin-top: 40vh;
+}
